@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+header {
+    background-color: #8a2be2;
+    color: #ffffff;
+}
+
+header h1 {
+    font-family: tahoma;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-size: 40px;
+}
+
+section {
+    color: #ffffff;
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    border: solid #000000;
+    border-radius: 1px;
+    background-color: #8a2be2;
+    box-shadow: 10px;
+}
+
+section p {
+    text-align: justify;
+    padding: 0px 60px;
+    font-family: 'Times New Roman';
+    margin-top: 50px;
+    font-size: 35px;
+
+
+}
+
+.img1 {
+    background-image: url(https://mundoconectado.com.br/uploads/chamadas/inteligencia_1.jpg);
+}
+
+.img2 {
+    background-image: url(https://galeria.microlins.com.br/noticia/20200403091211656.jpg);
+}
+
+.img3 {
+    background-image: url(https://chiefofdesign.com.br/wp-content/uploads/2017/11/flexbox-css-1024x538.png);
+}
+
+.img4 {
+    background-image: url(https://s2.glbimg.com/4j5z1GnPchdcu4X7UCJZx41Gm98=/0x0:3543x2303/984x0/smart/filters:strip_icc/i.s3.glbimg.com/v1/AUTH_e536e40f1baf4c1a8bf1ed12d20577fd/internal_photos/bs/2023/Y/5/j7efKVQwK6uANPbncBBw/chatgpt.jpg);
+}
+
+
+
+footer{
+    font-family: 'ITC Benguiat W01';
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 30px;
+    background-color: #8926a7;
+    color: #ffffff;
+}
+
+
+
+footer a{
+    text-decoration: none;
+    color: #ffffff;
+}
